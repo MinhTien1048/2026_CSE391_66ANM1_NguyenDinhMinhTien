@@ -1,4 +1,4 @@
-# 2026_CSE_66ANM1_NguyenDinhMinhTien
+# 2026_CSE391_66ANM1_NguyenDinhMinhTien
 
 - **Họ và tên:** Nguyễn Đình Minh Tiến  
 - **Lớp:** 66ANM1  
